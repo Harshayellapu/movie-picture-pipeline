@@ -4,7 +4,7 @@
 
 Public GitHub Repository:
 
-https://github.com/ajay-0806/Movie-picture-pipeline
+https://github.com/Harshayellapu/movie-picture-pipeline
 
 ## CI/CD Workflows
 

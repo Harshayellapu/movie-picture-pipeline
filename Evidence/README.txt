@@ -11,7 +11,7 @@ Movie Picture Pipeline - Evidence Screenshots
 09 - Frontend Movie List through AWS LoadBalancer
 
 Repository:
-https://github.com/ajay-0806/Movie-picture-pipeline
+https://github.com/Harshayellapu/movie-picture-pipeline
 
 Frontend:
 http://a2d31579c5e3949c0a08a94063fe48ea-1271160173.us-east-1.elb.amazonaws.com
